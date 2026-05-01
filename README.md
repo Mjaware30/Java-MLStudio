@@ -278,7 +278,7 @@ predictions (id, session_id, model_name, input_data TEXT, prediction DOUBLE, cre
 
 ## 📄 License
 
-This project is developed for academic purposes at Sandip Institute of Technology and Research Centre under the guidance of Prof. Akhilesh Sharma (Coordinator) and Dr. Atmeshkumar Patel (HoD, AIDS).
+This project is developed for academic purposes at Sandip Institute of Technology and Research Centre under the guidance of Prof. Shubham Patil (Coordinator) and Dr. Atmeshkumar Patel (HoD, AIDS).
 
 ---
 
